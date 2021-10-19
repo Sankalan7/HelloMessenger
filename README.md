@@ -6,4 +6,4 @@
 
 This is a code repository for the chat application I made. I used Auth using firebase and propagated everyting through React context API.
 
-The app is live in ![Here](http://hellomessenger-sankalan7.netlify.com/)
+The app is live in [Here](http://hellomessenger-sankalan7.netlify.com/)
